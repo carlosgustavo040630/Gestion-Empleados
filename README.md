@@ -3,41 +3,41 @@ Aplicación de escritorio desarrollada en C# con Windows Forms y SQL Server para
 
 Tecnologías utilizadas
 
-C#
+1.C#
 
-Windows Forms
+2.Windows Forms
 
-SQL Server
+3.SQL Server
 
-Visual Studio
+4.Visual Studio
 
 Funcionalidades
 
-Gestión de información de empleados.
+1.Gestión de información de empleados.
 
-Interfaz gráfica para interactuar con los registros.
+2.Interfaz gráfica para interactuar con los registros.
 
-Conexión con una base de datos SQL Server.
+3.Conexión con una base de datos SQL Server.
 
 Nota: ajusta esta lista para incluir únicamente las funcionalidades que implementaste realmente.
 
 Requisitos
 
-Visual Studio con soporte para C# y Windows Forms.
+1.Visual Studio con soporte para C# y Windows Forms.
 
-SQL Server.
+2.SQL Server.
 
-Base de datos configurada para la aplicación.
+3.Base de datos configurada para la aplicación.
 
 Instalación y ejecución
 
-Clonar o descargar este repositorio.
+1.Clonar o descargar este repositorio.
 
-Abrir C_GestionEmpleados.sln en Visual Studio.
+2.Abrir C_GestionEmpleados.sln en Visual Studio.
 
-Configurar la conexión a SQL Server.
+3.Configurar la conexión a SQL Server.
 
-Ejecutar la aplicación desde Visual Studio.
+4.Ejecutar la aplicación desde Visual Studio.
 
 Autor
 
