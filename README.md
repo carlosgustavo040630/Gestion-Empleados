@@ -15,7 +15,6 @@ Aplicación de escritorio desarrollada en C# con Windows Forms y SQL Server para
 - Interfaz gráfica para interactuar con los registros.
 - Conexión con una base de datos SQL Server.
 
-*Nota: ajusta esta lista para incluir únicamente las funcionalidades que implementaste realmente.*
 
 ## Requisitos
 
